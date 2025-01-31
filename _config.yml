@@ -116,6 +116,4 @@ exclude:
     "vendor",
   ]
 
-# To avoid the cache saved by the browser, add a query string to the end of the URL.
-# This will force the browser to download the new version of the file.
-cache_buster: "?v={{ site.time | date: '%Y%m%d%H%M%S' }}"
+
