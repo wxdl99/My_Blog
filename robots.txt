@@ -60,3 +60,6 @@ Disallow:/
 User-agent: Twitterbot
 Disallow:/
 
+# 其他爬虫，禁止
+User-agent: *
+Disallow:/
