@@ -1,2 +1,62 @@
-User-agent: *
-Disallow:
+User-agent: Scrapy
+Disallow:/
+
+User-agent: MJ12bot
+Disallow:/
+
+User-agent: AhrefsBot
+Disallow:/
+
+User-agent: SemrushBot
+Disallow:/
+
+# Google爬虫，允许
+User-agent: Googlebot
+Allow:/
+
+# 百度爬虫，禁止
+User-agent: Baiduspider
+Disallow:/
+
+# 360爬虫，禁止
+User-agent: 360Spider
+Disallow:/
+
+# 必应爬虫，允许
+User-agent: Bingbot
+Allow:/
+
+# 搜狗爬虫，禁止
+User-agent: Sogou web spider
+Disallow:/
+
+User-agent: YandexBot
+Disallow:/
+
+User-agent: Slurp
+Disallow:/
+
+User-agent: DuckDuckGo-Favicons-Bot
+Disallow:/
+
+User-agent: LinkedInBot
+Disallow:/
+
+User-agent: Applebot
+Disallow:/
+
+User-agent: WhatsApp
+Disallow:/
+
+User-agent: Discordbot
+Disallow:/
+
+User-agent: Pinterestbot
+Disallow:/
+
+User-agent: Tumblrbot
+Disallow:/
+
+User-agent: Twitterbot
+Disallow:/
+
