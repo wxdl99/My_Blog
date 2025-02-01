@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://wxdl99.github.io
+url: https://wxdl99.github.io/My_Blog/
 # your url: https://USERNAME.github.io
 
 permalink: /My_Blog/:title/
