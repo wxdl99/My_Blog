@@ -1,0 +1,23 @@
+---
+title: "泊松分布"
+layout: post
+date: 2025-03-14 15:19
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 
+- 
+- 
+star: true
+category: blog
+author: Yifei ZHU
+description: 关于泊松分布的理解
+---
+
+
+## Tags
+- 数学
+- 统计
+- 数据分析
+- 法语
+- 语言
