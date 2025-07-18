@@ -5,7 +5,7 @@ date: 2025-04-28 16:14
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- 小孩子也能听懂的物理学
+- 胡闹物理学
 star: true
 category: blog
 author: Yifei ZHU
